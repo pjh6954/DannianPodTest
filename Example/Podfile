@@ -1,0 +1,6 @@
+use_frameworks!
+target 'DannianPodTest_Tests' do
+  pod 'DannianPodTest', :path => '../'
+  
+  
+end
