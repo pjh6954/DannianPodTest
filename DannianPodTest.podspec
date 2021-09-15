@@ -20,11 +20,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'For Study pod library create.'
 
-  s.homepage         = 'https://github.com/junhoPark/DannianPodTest'
+  s.homepage         = 'https://github.com/pjh6954/DannianPodTest'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'junhoPark' => 'pjh6954@gmail.com' }
-  s.source           = { :git => 'https://github.com/junhoPark/DannianPodTest.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/pjh6954/DannianPodTest.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
