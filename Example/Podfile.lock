@@ -1,0 +1,16 @@
+PODS:
+  - DannianPodTest (0.1.0)
+
+DEPENDENCIES:
+  - DannianPodTest (from `../`)
+
+EXTERNAL SOURCES:
+  DannianPodTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DannianPodTest: 381d31b231109e0ee2f75687395f1ba1c5dac23c
+
+PODFILE CHECKSUM: 245ea51ea7b0cd3e0510ad9bdd52c09cb3cadb9b
+
+COCOAPODS: 1.11.2

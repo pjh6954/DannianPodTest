@@ -1,0 +1,6 @@
+framework module DannianPodTest {
+  umbrella header "DannianPodTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
