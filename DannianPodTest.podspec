@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.deprecated       = true
   s.name             = 'DannianPodTest'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'For Study pod library create'
   s.swift_version    = '4.2'
 
