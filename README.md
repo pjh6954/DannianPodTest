@@ -22,7 +22,7 @@ pod 'DannianPodTest'
 
 ## Author
 
-junhoPark, 37360920+pjh6954@users.noreply.github.com
+Dannian Park, pjh6954@gmail.com
 
 ## License
 
